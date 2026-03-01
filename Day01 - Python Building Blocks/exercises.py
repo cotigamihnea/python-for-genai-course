@@ -82,6 +82,8 @@ def task4():
             print(f"{repr(value)} is Truthy")
         else:
             print(f"{repr(value)} is Falsy")
+            
+    pass
 
 def task5():
     print("=== Operator Examples ===")
@@ -96,6 +98,8 @@ def task5():
     print(f"{num1} // {num2} = {num1 // num2}")
     print(f"{num1} % {num2} = {num1 % num2}")
     print(f"{num1} ** {num2} = {num1 ** num2}")
+    
+    pass
 
 def task6():
     age = int(input("What is your age?\n"))
@@ -130,6 +134,8 @@ def task6():
         print("Hey! You can vote!")
     else:
         print("Sorry, you can't vote yet!")
+        
+    pass
 
 def main():
     task1()
@@ -138,6 +144,7 @@ def main():
     task4()
     task5()
     task6()
+    
     return 0
 
 

@@ -68,7 +68,7 @@ def task3():
 
     print("=== YOUR INFORMATION ===")
     print(f"FULL NAME: {name} {surname}")
-    print(f"AGE: {2025 - birth_year}")
+    print(f"AGE: {2026 - birth_year}")
     print(f"DOUBLE OF YOUR FAVOURITE NUMBER: {2 * favourite_number}")
 
     pass

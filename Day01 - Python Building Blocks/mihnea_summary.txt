@@ -1,0 +1,21 @@
+╔════════════════════════════════════════════════════╗
+║             USER INFORMATION SUMMARY               ║
+╠════════════════════════════════════════════════════╣
+║ Name: Mihnea Cotiga                                ║
+║ Age: 22 years old (Approx. 8,035 days)             ║
+║ Birth Year: 2004                                   ║
+║ Location: Romania                                  ║
+║ Occupation: Student                                ║
+║ Email: 2003mihneandrei27@gmail.com                 ║
+║ Phone: 0777-777-777                                ║
+║                                                    ║
+║ Programming Experience:                            ║
+║    • Languages Known: 5                            ║
+║    • Favorite Language: C                          ║
+║    • Years of Experience: 5.0                      ║
+║    • Experience Level: Advanced                    ║
+║    • Avg Languages/Year: 1.00                      ║
+║    • Student Status: Yes                           ║
+║                                                    ║
+║ Wow, a pro! Keep sharing your knowledge!           ║
+╚════════════════════════════════════════════════════╝

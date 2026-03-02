@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Laptop",
+        "price": 4185.0,
+        "quantity": 1,
+        "category": "Electronics"
+    },
+    {
+        "name": "Milk",
+        "price": 21.389999999999997,
+        "quantity": 5,
+        "category": "Food"
+    },
+    {
+        "name": "Mouse",
+        "price": 65.1,
+        "quantity": 2,
+        "category": "Electronics"
+    },
+    {
+        "name": "Potatoes",
+        "price": 1.8599999999999999,
+        "quantity": 23,
+        "category": "Food"
+    },
+    {
+        "name": "Salt",
+        "price": 31.619999999999997,
+        "quantity": 1,
+        "category": "Food"
+    },
+    {
+        "name": "Water",
+        "price": 2.79,
+        "quantity": 12,
+        "category": "Food"
+    },
+    {
+        "name": "Wipes",
+        "price": 41.849999999999994,
+        "quantity": 1,
+        "category": "Cleaning"
+    }
+]

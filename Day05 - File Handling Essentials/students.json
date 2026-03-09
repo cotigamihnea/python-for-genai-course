@@ -1,0 +1,29 @@
+{
+    "Alice": {
+        "age": 20,
+        "grades": [
+            95,
+            90,
+            92
+        ],
+        "email": "alice@example.com"
+    },
+    "Bob": {
+        "age": 22,
+        "grades": [
+            78,
+            82,
+            88
+        ],
+        "email": "bob@example.com"
+    },
+    "Charlie": {
+        "age": 21,
+        "grades": [
+            92,
+            88,
+            95
+        ],
+        "email": "charlie@example.com"
+    }
+}

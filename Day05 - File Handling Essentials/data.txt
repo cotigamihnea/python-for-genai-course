@@ -1,0 +1,10 @@
+Game ID: 1, Title: The Legend of Zelda: Breath of the Wild, Genre: Action-Adventure, Release Year: 2017, Developer: Nintendo EPD, Rating: 9.3
+Game ID: 2, Title: Elden Ring, Genre: Action RPG, Release Year: 2022, Developer: FromSoftware, Rating: 9.0
+Game ID: 3, Title: The Witcher 3, Genre: RPG, Release Year: 2015, Developer: CD Projekt Red, Rating: 9.2
+Game ID: 4, Title: Hades, Genre: Roguelike, Release Year: 2020, Developer: Supergiant Games, Rating: 9.1
+Game ID: 5, Title: Hollow Knight, Genre: Metroidvania, Release Year: 2017, Developer: Team Cherry, Rating: 8.8
+Game ID: 6, Title: Stardew Valley, Genre: Simulation, Release Year: 2016, Developer: ConcernedApe, Rating: 9.0
+Game ID: 7, Title: Celeste, Genre: Platformer, Release Year: 2018, Developer: Maddy Makes Games, Rating: 9.0
+Game ID: 8, Title: Portal 2, Genre: Puzzle, Release Year: 2011, Developer: Valve, Rating: 9.4
+Game ID: 9, Title: Dark Souls, Genre: Action RPG, Release Year: 2011, Developer: FromSoftware, Rating: 9.0
+Game ID: 10, Title: Minecraft, Genre: Sandbox, Release Year: 2011, Developer: Mojang, Rating: 9.2

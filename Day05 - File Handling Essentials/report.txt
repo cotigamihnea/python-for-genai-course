@@ -1,0 +1,14 @@
+Employee Report
+==================================================
+
+Total Payroll: $430,000.00
+
+Average Salary by Department:
+  Engineering: $102,500.00
+  Marketing: $72,000.00
+  Sales: $85,000.00
+  HR: $68,000.00
+
+Employees with >5 years experience:
+  - Name: Carol White, Department: Engineering, Salary: $110,000.00, Experience: 8 years
+  - Name: David Brown, Department: Sales, Salary: $85,000.00, Experience: 6 years
